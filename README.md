@@ -140,7 +140,6 @@ Esto copia y mantiene sincronizados los archivos entre EC2 y S3.
 - Recuperé el archivo desde una versión anterior en S3
 Este paso demuestra recuperación ante errores humanos, un escenario muy común en producción.
 
-📸 **Capturas recomendadas**:
 ### Archivo eliminado
 <img width="706" height="241" alt="image" src="https://github.com/user-attachments/assets/1786bb84-237a-4a15-a895-034b749f7fc2" />
 

@@ -22,7 +22,7 @@ El entorno estaba compuesto por:
 - **Command Host**: administración y ejecución de comandos AWS CLI
 - **Processor**: instancia con volumen EBS y archivos de prueba
 - Un **volumen EBS** adjunto a Processor
-- Un **bucket Amazon S3** con versionado deshabilitado, posteriormente habilitado a través de CLI
+- Un **bucket Amazon S3** inicialmente sin versionado, el cual fue habilitado posteriormente mediante AWS CLI para permitir recuperación de archivos
 
 ### Diagrama del laboratorio o vista general de EC2 + S3
 
@@ -152,19 +152,19 @@ Este paso demuestra recuperación ante errores humanos, un escenario muy común 
 ### Sincronización con el bucket de S3
 <img width="626" height="102" alt="image" src="https://github.com/user-attachments/assets/e63f9d7f-671d-48d2-a9d6-75eba35e17d6" />
 
-### Resultados
+## Resultados
 - Snapshots automatizados
 - Limpieza automática de respaldos
 - Sincronización segura con S3
 - Recuperación de archivos eliminados
 - Uso de buenas prácticas de seguridad (IAM Roles)
 
-### Aprendizajes clave
+## Aprendizajes clave
 - La automatización reduce errores y costos
 - EBS snapshots son esenciales para respaldos de EC2
 - S3 + versionado es una excelente capa de protección de datos
 - AWS CLI permite administrar infraestructura sin depender de la consola
 - Python es ideal para tareas repetitivas de administración cloud
 
-### Conclusión
+## Conclusión
 Este laboratorio demuestra habilidades prácticas en gestión de almacenamiento en AWS, automatización y recuperación de datos, alineadas con escenarios reales de trabajo en la nube.

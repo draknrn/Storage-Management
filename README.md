@@ -154,11 +154,11 @@ Este paso demuestra recuperación ante errores humanos, un escenario muy común 
 <img width="626" height="102" alt="image" src="https://github.com/user-attachments/assets/e63f9d7f-671d-48d2-a9d6-75eba35e17d6" />
 
 ### Resultados
-✔ Snapshots automatizados
-✔ Limpieza automática de respaldos
-✔ Sincronización segura con S3
-✔ Recuperación de archivos eliminados
-✔ Uso de buenas prácticas de seguridad (IAM Roles)
+- Snapshots automatizados
+- Limpieza automática de respaldos
+- Sincronización segura con S3
+- Recuperación de archivos eliminados
+- Uso de buenas prácticas de seguridad (IAM Roles)
 
 ### Aprendizajes clave
 - La automatización reduce errores y costos

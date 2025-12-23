@@ -47,11 +47,11 @@ Este repositorio incluye laboratorios relacionados con:
 
 ##  Estructura del repositorio
 ```text
-aws-labs/
-├── storage-management/
+AWS-Labs/
+├── Storage-Management/
 │   ├── README.md
 │   └── README_EN.md
-├── s3-file-sharing/
+├── S3-file-sharing/
 │   ├── README.md
 │   └── README_EN.md
 ├── README.md   ← (este archivo)

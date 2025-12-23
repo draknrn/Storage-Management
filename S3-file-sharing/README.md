@@ -116,8 +116,8 @@ Revisé el **grupo IAM mediaco** y su política asociada, la cual otorga permiso
 	]
 }
 ```
-<details/>
-<summary/>
+</details>
+
 ---
 
 ### 4. Pruebas de acceso del usuario externo (mediacouser)

@@ -55,14 +55,15 @@ aws-labs/
 │   ├── README.md
 │   └── README_EN.md
 ├── README.md   ← (este archivo)
+├── README_EN.md
 ```
 
 ---
 
 ##  Idiomas
 Los laboratorios están documentados en:
-- 🇪🇸 Español
-- 🇬🇧 Inglés técnico
+- Español
+- Inglés técnico (estilo AWS / internacional)
 
 Esto permite que el contenido sea accesible tanto para audiencias locales como internacionales.
 
@@ -78,4 +79,4 @@ Este repositorio forma parte de mi **portafolio profesional**.
 Este repositorio está en constante crecimiento.  
 Nuevos laboratorios y mejoras serán añadidos progresivamente a medida que continúe mi aprendizaje en AWS.
 
-Gracias por visitar 
+Gracias por visitar

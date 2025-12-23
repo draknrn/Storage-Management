@@ -153,18 +153,24 @@ Las acciones de carga y eliminación de objetos generaron notificaciones por cor
 
 <img width="658" height="671" alt="image" src="https://github.com/user-attachments/assets/9b2985e8-0bb5-4b6e-95e6-53f8e550dc7e" />
 
-#### Comprobación de credenciales
+#### Pruebas mediante AWS CLI como mediacouser
+
+- Comprobación de credenciales
+
 <img width="509" height="108" alt="image" src="https://github.com/user-attachments/assets/bc047f3a-ff61-4b2f-abe2-1b4d96948f2a" />
 
-#### Acciones PUT & GET
+- Operaciones PUT / GET
+
 <img width="1323" height="258" alt="image" src="https://github.com/user-attachments/assets/e04cbcb3-946d-4e8e-98c4-298ab4c6e565" />
 
-#### Acción DELETE
 <img width="978" height="174" alt="image" src="https://github.com/user-attachments/assets/e2c54f09-bf9f-4da9-82fc-94d73d2aaa5d" />
+
+- Operación DELETE
 
 <img width="861" height="73" alt="image" src="https://github.com/user-attachments/assets/71efa94a-e67e-4b54-a823-29846cb3059a" />
 
-#### Acción cambiar permisos de visibilidad
+- Intento de cambio de permisos (bloqueado)
+
 <img width="1902" height="72" alt="image" src="https://github.com/user-attachments/assets/38111691-02d0-42ac-8db2-843e9ad3f9fd" />
 
 ---

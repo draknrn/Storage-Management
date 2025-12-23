@@ -166,5 +166,13 @@ Este paso demuestra recuperación ante errores humanos, un escenario muy común 
 - AWS CLI permite administrar infraestructura sin depender de la consola
 - Python es ideal para tareas repetitivas de administración cloud
 
+## Qué haría distinto en un entorno de producción
+- Utilizar **Infraestructura como Código (IaC)** con CloudFormation o Terraform
+- Aplicar **políticas IAM con principio de mínimo privilegio**
+- Reemplazar snapshots basados en `cron` por **AWS Data Lifecycle Manager**
+- Agregar **monitoreo y alertas con Amazon CloudWatch**
+- Implementar **políticas de ciclo de vida en S3** para optimizar costos de almacenamiento
+- Utilizar **arquitecturas Multi-AZ y servicios administrados** para mayor disponibilidad
+
 ## Conclusión
 Este laboratorio demuestra habilidades prácticas en gestión de almacenamiento en AWS, automatización y recuperación de datos, alineadas con escenarios reales de trabajo en la nube.

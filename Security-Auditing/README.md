@@ -12,7 +12,7 @@ La arquitectura del laboratorio incluye:
 
 - **Instancia EC2 – Café Web Server**
 - **AWS CloudTrail Trail** con logs almacenados en S3
-- **Bucket S3 (monitoring####)** para logs de auditoría
+- **Bucket S3 (monitoring3333)** para logs de auditoría
 - **Amazon Athena** para análisis mediante SQL
 - **Usuarios IAM** (legítimos y maliciosos)
 - **Security Groups** del servidor web

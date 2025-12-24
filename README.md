@@ -48,6 +48,9 @@ Este repositorio incluye laboratorios relacionados con:
 ##  Estructura del repositorio
 ```text
 AWS-Labs/
+├── Security-Auditing/
+│   ├── README.md
+│   └── README_EN.md
 ├── Storage-Management/
 │   ├── README.md
 │   └── README_EN.md
@@ -55,7 +58,7 @@ AWS-Labs/
 │   ├── README.md
 │   └── README_EN.md
 ├── README.md   ← (este archivo)
-├── README_EN.md
+└── README_EN.md
 ```
 
 ---

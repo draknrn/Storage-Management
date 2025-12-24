@@ -45,7 +45,7 @@ La arquitectura del laboratorio incluye:
 ### 1. Observación inicial del sitio web
 Se accedió al sitio web del Café y se confirmó que su contenido era legítimo antes del incidente.
 
-<img width="507" height="904" alt="image" src="https://github.com/user-attachments/assets/dbf204ba-d960-4409-ac00-6535dc3561ba" />
+<img width="493" height="877" alt="image" src="https://github.com/user-attachments/assets/f0c39a16-3593-4cab-af1a-946c076f793f" />
 
 ---
 
@@ -136,7 +136,7 @@ Se restauró la imagen original del sitio web desde un respaldo local.
 
 <img width="803" height="425" alt="image" src="https://github.com/user-attachments/assets/b807c230-ffdc-42bd-a28e-495a2abd6e89" />
 
-<img width="492" height="872" alt="image" src="https://github.com/user-attachments/assets/4f15e75d-e536-4238-9324-ae015e9a97d9" />
+<img width="491" height="870" alt="image" src="https://github.com/user-attachments/assets/01e390f8-61c6-4299-b0a1-e1e8737f6f32" />
 
 ---
 

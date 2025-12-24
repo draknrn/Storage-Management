@@ -18,6 +18,15 @@ La arquitectura del laboratorio incluye:
 - Instancia **CommandHost** (AWS CLI preconfigurado)
 - Múltiples instancias EC2 con etiquetas personalizadas
 
+## Tags usados
+
+| Tag          | Purpose                    |
+|--------------|----------------------------|
+| Project      | Resource ownership         |
+| Environment  | Lifecycle management       |
+| Version      | Deployment tracking        |
+| Department   | Cost allocation            |
+
 <img width="1130" height="426" alt="image" src="https://github.com/user-attachments/assets/c311f291-f30c-4caa-a984-a8f168ada066" />
 
 ---

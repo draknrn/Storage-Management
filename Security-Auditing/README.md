@@ -106,16 +106,13 @@ Mediante consultas SQL se identificó:
 
 <img width="1467" height="714" alt="image" src="https://github.com/user-attachments/assets/fdd25f0c-a5b7-44d7-a0d1-51b7d2608821" />
 
-<details>
-  <summary>Ver resultados de la consulta SQL</summary>
-  - User: chaos
-  - Time: 2025-12-24T00:02:53Z
-  - IP: 44.243.94.245
-  - Event Name: AuthorizeSecurityGroupIngress
-  - User Agent: aws-cli/1.18.147 Python/2.7.18 Linux/4.14.355-280.710.amzn2.x86_64 botocore/1.18.6
-  - Request Parameters: {"groupId":"sg-0476141b1c602e0df","ipPermissions":{"items":[{"ipProtocol":"tcp","fromPort":22,"toPort":22,"groups":{},"ipRanges":{"items":[{"cidrIp":"0.0.0.0/0"}]},"ipv6Ranges":{},"prefixListIds":{}}]}}
-  - Access Method: Programmatic (CLI/SDK)
-</details>
+- User: chaos
+- Time: 2025-12-24T00:02:53Z
+- IP: 44.243.94.245
+- Event Name: AuthorizeSecurityGroupIngress
+- User Agent: aws-cli/1.18.147 Python/2.7.18 Linux/4.14.355-280.710.amzn2.x86_64 botocore/1.18.6
+- Request Parameters: {"groupId":"sg-0476141b1c602e0df","ipPermissions":{"items":[{"ipProtocol":"tcp","fromPort":22,"toPort":22,"groups":{},"ipRanges":{"items":[{"cidrIp":"0.0.0.0/0"}]},"ipv6Ranges":{},"prefixListIds":{}}]}}
+- Access Method: Programmatic (CLI/SDK)
 
 ---
 

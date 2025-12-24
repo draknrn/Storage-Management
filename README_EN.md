@@ -47,14 +47,16 @@ This repository includes labs related to:
 
 ## Repository Structure
 ```text
-AWS-Labs/
+├── AWS-Tagging/
+│   ├── README.md
+│   └── README_EN.md
+├── S3-file-sharing/
+│   ├── README.md
+│   └── README_EN.md
 ├── Security-Auditing/
 │   ├── README.md
 │   └── README_EN.md
 ├── Storage-Management/
-│   ├── README.md
-│   └── README_EN.md
-├── S3-file-sharing/
 │   ├── README.md
 │   └── README_EN.md
 ├── README.md        ← (Spanish)

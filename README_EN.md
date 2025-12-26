@@ -50,6 +50,9 @@ This repository includes labs related to:
 ├── AWS-Tagging/
 │   ├── README.md
 │   └── README_EN.md
+├── Resources-Optimization/
+│   ├── README.md
+│   └── README_EN.md
 ├── S3-file-sharing/
 │   ├── README.md
 │   └── README_EN.md

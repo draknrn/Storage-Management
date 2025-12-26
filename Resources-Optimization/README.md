@@ -117,7 +117,7 @@ http://<Public-DNS>/cafe
 
 ## Task 2: Estimación de Costos con AWS Pricing Calculator
 
-### 2.0 Costos Antes de la Optimización
+### 2.1 Costos Antes de la Optimización
 
 Configuración:
 - EC2: t3.small
@@ -130,7 +130,7 @@ Configuración:
 
 ---
 
-### 2.1 Costos Después de la Optimización
+### 2.2 Costos Después de la Optimización
 
 Cambios:
 - EC2: t3.micro
@@ -142,7 +142,7 @@ Cambios:
 
 ---
 
-### 2.2 Ahorro Proyectado
+### 2.3 Ahorro Proyectado
 
 | Estado | Costo Mensual |
 |------|---------------|

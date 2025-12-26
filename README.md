@@ -51,6 +51,9 @@ AWS-Labs/
 ├── AWS-Tagging/
 │   ├── README.md
 │   └── README_EN.md
+├── Resources-Optimization/
+│   ├── README.md
+│   └── README_EN.md
 ├── S3-file-sharing/
 │   ├── README.md
 │   └── README_EN.md

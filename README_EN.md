@@ -62,6 +62,9 @@ This repository includes labs related to:
 ├── Storage-Management/
 │   ├── README.md
 │   └── README_EN.md
+├── Troubleshoot-CloudFormation/
+│   ├── README.md
+│   └── README_EN.md
 ├── README.md        ← (Spanish)
 └── README_EN.md     ← (English – Technical)
 ```
